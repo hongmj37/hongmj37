@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hong&fontSize=70)
 
-<h2> Hello, My name is Hong Minjung 👧🏻 </h2>
+<h3> 👧🏻 Hello, </h3>
 <p>
   <a href="https://hoong-story.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hoong-story.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/seluv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seluv"/></a>&nbsp
@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<h2> 🙏🏻 I want to constantly learn anything </h2>
+<h3> 🙏🏻 I want to constantly learn anything </h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
