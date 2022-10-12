@@ -2,8 +2,10 @@
 
 <h3> 👧🏻 Hello </h3>
 
+<p> 🙌🏻 I am Backend Developer </p>
+
 <p>
-  <a href="https://hoong-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://hoong-story.tistory.com/"/></a>&nbsp
+  <a href="https://hoong-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-000000style=flat-square&logo=Tistory&logoColor=white&link=https://hoong-story.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/seluv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seluv"/></a>&nbsp
   <a href="mailto:alswjd3813@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=alswjd3813@naver.com"/></a>
 </p>
