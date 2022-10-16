@@ -1,10 +1,9 @@
-# HONG MIN JUNG 🫧
+# Hong ! Minjung 🫧
 
-### 🙌🏻 Hello I am Backend Developer
+### 👩🏻‍💻 I am Backend Developer 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongmj37&show_icons=true&theme=radical)
 
-
-<br>
 
 ### 🔎 Skill
 
@@ -24,8 +23,10 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
-  
-#### Contacts
+
+<br>
+
+### 💌 Contacts
 
 <p>
   <a href="https://hoong-story.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
