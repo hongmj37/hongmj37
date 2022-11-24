@@ -1,4 +1,4 @@
-# Hong ! Minjung 🫧
+# Hong ! Minjung 💕
 
 ### 👩🏻‍💻 I am Backend Developer 
 
